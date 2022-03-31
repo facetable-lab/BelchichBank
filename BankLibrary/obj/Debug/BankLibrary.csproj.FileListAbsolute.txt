@@ -1,0 +1,6 @@
+E:\project_cs\BankApplication\BankLibrary\bin\Debug\BankLibrary.dll
+E:\project_cs\BankApplication\BankLibrary\bin\Debug\BankLibrary.pdb
+E:\project_cs\BankApplication\BankLibrary\obj\Debug\BankLibrary.csproj.AssemblyReference.cache
+E:\project_cs\BankApplication\BankLibrary\obj\Debug\BankLibrary.csproj.CoreCompileInputs.cache
+E:\project_cs\BankApplication\BankLibrary\obj\Debug\BankLibrary.dll
+E:\project_cs\BankApplication\BankLibrary\obj\Debug\BankLibrary.pdb

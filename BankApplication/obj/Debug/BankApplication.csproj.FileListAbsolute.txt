@@ -1,0 +1,11 @@
+E:\project_cs\BankApplication\BankApplication\bin\Debug\BankApplication.exe.config
+E:\project_cs\BankApplication\BankApplication\bin\Debug\BankApplication.exe
+E:\project_cs\BankApplication\BankApplication\bin\Debug\BankApplication.pdb
+E:\project_cs\BankApplication\BankApplication\obj\Debug\BankApplication.csproj.AssemblyReference.cache
+E:\project_cs\BankApplication\BankApplication\obj\Debug\BankApplication.csproj.SuggestedBindingRedirects.cache
+E:\project_cs\BankApplication\BankApplication\obj\Debug\BankApplication.csproj.CoreCompileInputs.cache
+E:\project_cs\BankApplication\BankApplication\obj\Debug\BankApplication.exe
+E:\project_cs\BankApplication\BankApplication\obj\Debug\BankApplication.pdb
+E:\project_cs\BankApplication\BankApplication\bin\Debug\BankLibrary.dll
+E:\project_cs\BankApplication\BankApplication\bin\Debug\BankLibrary.pdb
+E:\project_cs\BankApplication\BankApplication\obj\Debug\BankApplication.csproj.CopyComplete
